@@ -60,7 +60,7 @@ func CambioString (a:String, b:String) -> (String,String)
 }
 CambioString(a: "Hola", b: "yo")
 //: B) Función personalizada: Crear la función "Transformar" que reciba como parámetro una colección de tipo Int  "var datos = [3,7,9,2]" y una función que transforme cada valor de la coleción en una operación definida fuera de la función, regresando una colección transformada.
-//Esta parte no entendi que se necesita hacer
+//En esta parte no entendi que se necesita hacer
 
 
 /*:
